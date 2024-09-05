@@ -1,0 +1,5 @@
+INDEX VERSION 1.134
+C:\Users\beomj\Documents\workspace-sts-4-4.24.0.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2453102152.index
+\myapp-jsp\src\main\java
+C:\Users\beomj\Documents\workspace-sts-4-4.24.0.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4229969173.index
+\myapp-jsp\src\main\java
