@@ -26,12 +26,12 @@ public class SampleController {
 	@GetMapping("/greeting_eng")
 	public String greetingEng() {
 		eng.sayHello();
-		return ">>> Sample ...";
+		return ">>> Sample greeting_eng ...";
 	}
 	
 	@GetMapping("/greeting_kor")
 	public String greetingKor() {
 		kor.sayHello();
-		return ">>> Sample ...";
+		return ">>> Sample greeting_kor ...";
 	}
 }
