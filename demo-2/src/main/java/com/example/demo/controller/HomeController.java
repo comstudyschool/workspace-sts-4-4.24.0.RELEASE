@@ -11,7 +11,7 @@ import com.example.demo.service.GreetingService;
 @Controller
 public class HomeController {
 	@Autowired
-	@Qualifier("greetingServiceKor")
+	@Qualifier("greetingServiceEng")
 	private GreetingService service;
 	
 	public void execute() {
